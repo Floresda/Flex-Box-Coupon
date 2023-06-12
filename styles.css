@@ -91,7 +91,7 @@
     .couponPlus img {
         width: 100px;
         height: auto;
-        flex: 0 1 auto;
+        flex: 0 0 auto;
     }
     .coupon {
         flex-grow: 0;
